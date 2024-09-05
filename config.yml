@@ -1,0 +1,7 @@
+app:
+  port: 4005
+couchbase:
+  host: "couchbases://cb.rfvbfcs7cpryfy1.cloud.couchbase.com"
+  user: "reocouchbase"
+  password: "@rooT12345"
+  bucket: "email-service"
